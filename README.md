@@ -1,1 +1,2 @@
-# https://www.codewars.com/users/al3181
+# 3.py - system SNAPSHOT evety x min
+## settings.py - settings for 3.py
